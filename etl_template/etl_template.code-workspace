@@ -1,0 +1,10 @@
+{
+	"folders": [
+		{
+			"path": "."
+		}
+    ],
+    "settings": {
+        "python.pythonPath": "C:\\Users\\x219686\\AppData\\Local\\Programs\\Python\\Python37\\virtualenvs\\spark\\Scripts\\python.exe"
+    }
+}
